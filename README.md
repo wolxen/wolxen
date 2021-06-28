@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wolxen
+- 👀 I luv Python and NodeJS!!!
+- 📫 Contact me on Discord, (wolxen#0666), Twitter (wolx3n_Inazuma)
