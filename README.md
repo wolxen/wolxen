@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @wolxen
-- 👀 I luv Python and NodeJS!!!
-- 📫 Contact me on Discord, (wolxen#0666), Twitter (wolx3n_Inazuma)
+- 👋 Hello, I am wolxen!
+- 👀 I am currently learning Python, NodeJS and learning how to use Nintendo's Web Framework. I also do Hard-Modding, especially on Wii U.
+- 📫 Currently no place to contact me.
