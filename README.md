@@ -1,3 +1,3 @@
 - 👋 Hello, I am wolxen!
-- 👀 I am currently learning Python, NodeJS and learning how to use Nintendo Web Framework. I also do Hard-Modding, especially on Wii U.
-- 📫 Currently no place to contact me.
+- 👀 I am currently learning Python, NodeJS and Nintendo's Web Framework. I also do Hard-Modding, on Wii U mostly.
+- 📫 Later.
